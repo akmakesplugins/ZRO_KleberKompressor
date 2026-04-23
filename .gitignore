@@ -1,0 +1,10 @@
+Builds/
+build/
+cmake-build*/
+bin/
+out/
+JUCE/
+# macOS
+*.app
+*.dSYM
+*.DS_Store

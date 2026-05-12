@@ -3,8 +3,16 @@ build/
 cmake-build*/
 bin/
 out/
-JUCE/
+
+# Projucer
+JuceLibraryCode/
+
 # macOS
 *.app
 *.dSYM
 *.DS_Store
+
+# IDE
+.idea/
+.vs/
+.vscode/
